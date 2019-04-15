@@ -15,7 +15,7 @@ public class CinemaProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello world from newBranch");
+        System.out.println("Hello world from master branch");
     }
     
 }
